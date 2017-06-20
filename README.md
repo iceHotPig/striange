@@ -1,0 +1,2 @@
+# striange
+The triangulation principle
